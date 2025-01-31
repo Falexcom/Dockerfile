@@ -1,0 +1,12 @@
+ru\netology\SpringBoot\InvalidCredentials.class
+ru\netology\SpringBoot\RequestUser.class
+ru\netology\SpringBoot\AuthorizationController.class
+ru\netology\SpringBoot\UnauthorizedUser.class
+ru\netology\SpringBoot\UserArgumentResolver.class
+ru\netology\SpringBoot\Authorities.class
+ru\netology\SpringBoot\User.class
+ru\netology\SpringBoot\WebConfig.class
+ru\netology\SpringBoot\AuthorizationService.class
+ru\netology\SpringBoot\UserRepository.class
+ru\netology\SpringBoot\Application.class
+ru\netology\SpringBoot\GlobalExceptionHandler.class
